@@ -1,0 +1,5 @@
+JUL 08 2015
++ spec just got new battery/SD card module (replacement) — testing
+- 101 = on desk, facing the wall
+- 102 = left window, cloudy, blinds partially lowered
+- ok after testing it seems like I am supposed to reset the log file to 100, not 101 (or at least it works when I reset it to 100)
